@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://realvariety.github.io/sitemap.xml
